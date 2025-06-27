@@ -1,0 +1,22 @@
+.users{
+
+  padding: 20px;
+  width: 100%;
+  box-sizing: border-box;
+
+  .info{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 20px;
+
+    button{
+      padding: 5px;
+      cursor: pointer;
+    }
+     .dataTable {
+    width: 100%;
+    overflow-x: auto;
+  }
+  }
+}
